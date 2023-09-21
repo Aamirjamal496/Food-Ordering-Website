@@ -1,0 +1,20 @@
+Bree Serif:
+
+<link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+font-family: 'Bree Serif', serif;
+
+Baloo Bhai:
+
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&display=swap" rel="stylesheet">
+font-family: 'Baloo Bhai 2', cursive;
+
+Dancing Script:
+
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap" rel="stylesheet">
+font-family: 'Dancing Script', cursive;
+
+Pacifico:
+
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+font-family: 'Pacifico', cursive;
